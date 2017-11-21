@@ -34,9 +34,7 @@ Blocks: 172800 > 5% Fixed Yearly
 Approx: 2 Months PowerPoS
 
 Website:
-Powercoin.pw
-Twitter:
-twitter.com/Powercoin_PWR
+Powercoin.us
 
 
 
