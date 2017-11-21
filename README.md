@@ -36,5 +36,8 @@ Approx: 2 Months PowerPoS
 Website:
 Powercoin.us
 
+Discord:
+https://discord.gg/vqRyBub
+
 
 
